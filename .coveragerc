@@ -1,0 +1,5 @@
+[run]
+include = pet_tiger/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
